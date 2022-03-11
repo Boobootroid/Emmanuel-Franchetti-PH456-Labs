@@ -72,11 +72,6 @@ ax.set_ylabel('Percentage of true answer')
 ax.set_xlabel('Sample number')
 plt.show()  
 
-### CLEAN UP CODE
-### PRODUCE ANALYSIS
-
-
-
 
 
 
